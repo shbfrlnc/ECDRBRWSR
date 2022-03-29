@@ -31,3 +31,13 @@ npm run dist // build installer, hasilnya ada di ../_Release/ECDRBRWSR
 ```
 
 Ketika aplikasi ini sudah berjalan, Anda bisa mempelajari penggunaan API-nya melalui menu "Open Examples".
+
+## Info Tambahan
+
+Traktir Saya:
+
+https://sociabuzz.com/lsfkrshb/tribe
+
+Channel YouTube Saya:
+
+https://www.youtube.com/c/shbfrlnc
