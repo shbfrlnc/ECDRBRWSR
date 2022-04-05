@@ -1,6 +1,6 @@
 # ECDRBRWSR
 
-ECDRBRWSR adalah aplikasi browser yang dapat diprogram.
+ECDRBRWSR adalah aplikasi browser yang dapat diprogram. 
 
 Untuk mendownloadnya, kunjungi bagian Releases.
 
