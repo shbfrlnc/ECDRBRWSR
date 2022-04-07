@@ -32,6 +32,16 @@ npm run dist // build installer, hasilnya ada di ../_Release/ECDRBRWSR
 
 Ketika aplikasi ini sudah berjalan, Anda bisa mempelajari penggunaan API-nya melalui menu "Open Examples".
 
+## Screenshot
+
+![ScreenShot](assets/Screenshot 2022-03-22 061505.png)
+
+![ScreenShot](assets/Screenshot 2022-03-22 061534.png)
+
+![ScreenShot](assets/Screenshot 2022-03-22 061545.png)
+
+# 
+
 ## Info Tambahan
 
 Traktir Saya:
