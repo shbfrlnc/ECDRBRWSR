@@ -34,11 +34,11 @@ Ketika aplikasi ini sudah berjalan, Anda bisa mempelajari penggunaan API-nya mel
 
 ## Screenshot
 
-![ScreenShot](assets/Screenshot 2022-03-22 061505.png)
+![ScreenShot](https://github.com/shbfrlnc/ECDRBRWSR/blob/main/assets/Screenshot 2022-03-22 061505.png)
 
-![ScreenShot](assets/Screenshot 2022-03-22 061534.png)
+![ScreenShot](https://github.com/shbfrlnc/ECDRBRWSR/blob/main/assets/Screenshot 2022-03-22 061534.png)
 
-![ScreenShot](assets/Screenshot 2022-03-22 061545.png)
+![ScreenShot](https://github.com/shbfrlnc/ECDRBRWSR/blob/main/assets/Screenshot 2022-03-22 061545.png)
 
 # 
 
