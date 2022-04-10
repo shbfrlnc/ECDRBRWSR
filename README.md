@@ -44,15 +44,13 @@ Ketika aplikasi ini sudah berjalan, Anda bisa mempelajari penggunaan API-nya mel
 
 ## Screenshot
 
-![](assets/ECDRBRWSR3.png?raw=true)
+![ScreenShot](assets/ECDRBRWSR1.png?raw=true)
 
-![ScreenShot](https://github.com/shbfrlnc/ECDRBRWSR/blob/main/assets/ECDRBRWSR1.png)
+![ScreenShot](assets/ECDRBRWSR2.png?raw=true)
 
-![ScreenShot](https://github.com/shbfrlnc/ECDRBRWSR/blob/main/assets/ECDRBRWSR2.png)
+![ScreenShot](assets/ECDRBRWSR3.png?raw=true)
 
-![ScreenShot](https://github.com/shbfrlnc/ECDRBRWSR/blob/main/assets/ECDRBRWSR3.png)
-
-# 
+ 
 
 ## Info Tambahan
 
