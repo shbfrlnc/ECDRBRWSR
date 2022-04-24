@@ -2,45 +2,46 @@
 
 ## Download
 
-Untuk mendownloadnya, kunjungi bagian Releases.
+To download the apps, visit the release page.
 
 ## Pendahuluan
 
-ECDRBRWSR adalah aplikasi browser yang dapat diprogram. 
+ECDRBRWSR is a programmable web browser. 
 
-Untuk menjalankannya, ekstrak file zipnya, kemudian jalankan:
+To run the app, extract the zipped file (Source), then, in command line:
 
 ```
 npm install
 ```
 
-Kemudian, jalankan:
+Next:
 
 ```
-// untuk menjalankan aplikasi dengan script plaintext
+// running the apps from the plaintext code
 npm run dev
 ```
 
-Atau
+Or:
 
 ```
+// obfuscate the plaintext codes
 npm run obfuscate
 
-// untuk menjalankan aplikasi dengan script yang sudah di-obfuscate
+// run the obfuscated codes
 npm run start
 ```
 
-Untuk mem-build aplikasi ini menjadi installer (aplikasi Windows):
+To build this app as installer (Windows):
 
 ```
-// obfuscate dulu, karena yang di production bukan dalam bentuk plaintext
+// obfuscate first, the plaintext codes is for development, not production.
 npm run obfuscate
 
-// build installer, hasilnya ada di ../_Release/ECDRBRWSR
+// build installer, get the result at ../_Release/ECDRBRWSR
 npm run dist
 ```
 
-Ketika aplikasi ini sudah berjalan, Anda bisa mempelajari penggunaan API-nya melalui menu "Open Examples".
+After starting this app, you can learn about the API usage from the example codes by clicking "Open Examples".
 
 ## Screenshot
 
@@ -49,8 +50,6 @@ Ketika aplikasi ini sudah berjalan, Anda bisa mempelajari penggunaan API-nya mel
 ![ScreenShot](assets/ECDRBRWSR2.png?raw=true)
 
 ![ScreenShot](assets/ECDRBRWSR3.png?raw=true)
-
- 
 
 ## Info Tambahan
 
