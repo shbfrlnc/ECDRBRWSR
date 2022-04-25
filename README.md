@@ -4,6 +4,12 @@
 
 To download the apps, visit the release page.
 
+## More Info
+
+Support me, my youtube channel, etc:
+
+- https://shbfrlnc.github.io
+
 ## Pendahuluan
 
 ECDRBRWSR is a programmable web browser. 
@@ -50,9 +56,3 @@ After starting this app, you can learn about the API usage from the example code
 ![ScreenShot](assets/ECDRBRWSR2.png?raw=true)
 
 ![ScreenShot](assets/ECDRBRWSR3.png?raw=true)
-
-## Info Tambahan
-
-Traktir Saya, Channel YouTube Saya, dan lain-lain:
-
-- https://sociabuzz.com/lsfkrshb
