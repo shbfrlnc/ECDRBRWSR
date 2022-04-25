@@ -10,7 +10,7 @@ Support me, my youtube channel, etc:
 
 - https://shbfrlnc.github.io
 
-## Pendahuluan
+## Intro
 
 ECDRBRWSR is a programmable web browser. 
 
