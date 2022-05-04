@@ -2,52 +2,52 @@
 
 ## Download
 
-To download the apps, visit the release page.
+Untuk mendownloadnya, kunjungi halaman Releases.
 
-## More Info
+## Info Lebih Lanjut
 
-Support me, my youtube channel, etc:
+TRAKTIR / WEBSITE / YOUTUBE / TWITTER:
 
 - https://shbfrlnc.github.io
 
 ## Intro
 
-ECDRBRWSR is a programmable web browser. 
+ECDRBRWSR adalah programmable web browser yang dibuat menggunakan Electronjs. 
 
-To run the app, extract the zipped file (Source), then, in command line:
+Untuk menjalankan aplikasi ini, ekstrak file zip nya, masuk ke dalam foldernya via command line, lalu:
 
 ```
 npm install
 ```
 
-Next:
+Selanjutnya:
 
 ```
-// running the apps from the plaintext code
+// untuk menjalankan kode dalam bentuk plaintext
 npm run dev
 ```
 
-Or:
+Atau:
 
 ```
-// obfuscate the plaintext codes
+// obfuscate kode plaintext nya
 npm run obfuscate
 
-// run the obfuscated codes
+// jalankan kode yang sudah di-obfuscate
 npm run start
 ```
 
-To build this app as installer (Windows):
+Untuk mem-build installer untuk Windows:
 
 ```
-// obfuscate first, the plaintext codes is for development, not production.
+// obfuscate dahulu, karena kode plaintext untuk development, bukan production
 npm run obfuscate
 
-// build installer, get the result at ../_Release/ECDRBRWSR
+// build installer, hasilnya ada di ../_Release/ECDRBRWSR
 npm run dist
 ```
 
-After starting this app, you can learn about the API usage from the example codes by clicking "Open Examples".
+Setelah menjalankan aplikasi ini, Anda bisa mempelajari API nya via "Open Examples"
 
 ## Screenshot
 
