@@ -47,7 +47,7 @@ npm run obfuscate
 npm run dist
 ```
 
-Setelah menjalankan aplikasi ini, Anda bisa mempelajari API nya via "Open Examples"
+Setelah menjalankan aplikasi ini, Anda bisa mempelajari API nya via "Open Examples" .
 
 ## Screenshot
 
