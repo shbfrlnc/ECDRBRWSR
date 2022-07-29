@@ -4,12 +4,6 @@
 
 Untuk mendownloadnya, kunjungi halaman Releases.
 
-## Info Lebih Lanjut
-
-WEBSITE:
-
-- https://shbfrlnc.github.io
-
 ## Intro
 
 ECDRBRWSR adalah programmable web browser yang dibuat menggunakan Electronjs. 
